@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero-section {
+    background-color: #f8f9fa;
+    padding: 100px 0;
+}
+
+.about-section, .skills-section, .projects-section, .contact-section {
+    padding: 60px 0;
+}
+
+.skills-section h3, .projects-section h5 {
+    font-weight: bold;
+}
+
+.contact-section p a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+footer {
+    margin-top: 50px;
+}
